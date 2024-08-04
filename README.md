@@ -1,4 +1,4 @@
-# Video Instance Shadow Detection
+# Video Instance Shadow Detection Under the Sun and Sky
 
 We will release our code/demo soon.
 
