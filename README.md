@@ -1,4 +1,4 @@
-# Video Instance Shadow Detection Under the Sun and Sky
+# Video Instance Shadow Detection Under the Sun and Sky (IEEE TIP 2024)
 
 We will release our code/demo soon.
 
